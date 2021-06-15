@@ -1,3 +1,4 @@
+
 # EmotionDetections-with-Deep-neutral-network-layers
 Ongoing, Tuning and maintaining model hyperparameters.
 # Model for predicting the emotions 
@@ -81,7 +82,7 @@ I will do following things for model it can be changed during tuning process som
     
     
     ## not good result enough but will update soon
-    
+ ![Screenshot from 2021-06-15 14-57-56](https://user-images.githubusercontent.com/83119874/122083295-77da4280-ce20-11eb-8262-7116c61d8ce9.png)
 
 
       
